@@ -1,3 +1,11 @@
 <?php
-echo "hello world";
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+    <?php echo "hello world; "?>
+</body>
+</html>
 ?>
